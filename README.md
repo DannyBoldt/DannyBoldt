@@ -1,8 +1,8 @@
 - Hi, I’m @DannyBoldt
-- Interests: Machine learning, software development in java.
-- Currently Learning: ML algorithms in python, intermediate computational theory.
+- Interests: Machine learning, cloud app development(idk what that even means).
+- Currently Learning: Application developmet using mern stack
 - 📫 How to reach me:
-    -Email: danny.boldt@furman.edu
+    -Email: dannyboldt4@gmail.com
 
 <!---
 DannyBoldt/DannyBoldt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
