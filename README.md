@@ -1,6 +1,6 @@
 - Hi, I’m @DannyBoldt
-- Interests: Machine learning, cloud app development(idk what that even means).
-- Currently Learning: Application development using mern stack (^)
+- Interests: Machine learning in python, R when it doesn't work, cloud app development(idk what that even means).
+- Currently Learning: Application development using mern stack                       (^)
 - 📫 How to reach me:
     -Email: dannyboldt4@gmail.com
 
